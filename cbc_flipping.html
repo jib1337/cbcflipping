@@ -162,7 +162,6 @@
         if ((decCookie = CryptoJS.AES.decrypt(hexToBase64(encCookie), key, { iv: iv, mode: CryptoJS.mode.CBC, padding: CryptoJS.pad.Pkcs7 })) != '') {
           responseBox.style.color = 'Green';
           decCookie = hexToAscii(decCookie.toString(CryptoJS.enc.Hex));
-          console.log(decCookie);
           
           let paramString = decCookie.split('&');
           
