@@ -1,6 +1,6 @@
 # CBC Bitflipping Demonstration | Jack Nelson, 2019
 
-A excercise developed to demonstrate a CBC bitflipping attack, which allows modification of information encrypted using Cipher Block Chaining (CBC). A good writeup of the vulnerability can be found at: https://resources.infosecinstitute.com/cbc-byte-flipping-attack-101-approach/#gref
+A excercise developed to demonstrate a CBC bitflipping attack, which allows modification of information encrypted using Cipher Block Chaining (CBC). A good writeup of the vulnerability can be found at: https://www.arxumpathsecurity.de/blog/2019/10/16/cbc-mode-is-malleable-dont-trust-it-for-authentication
 
 This excercise makes use of the CryptoJS project - code.google.com/p/crypto-js
 
