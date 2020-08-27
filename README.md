@@ -1,4 +1,4 @@
-# CBC Bitflipping Demonstration | Jack Nelson, 2019
+# CBC Bitflipping Demonstration
 
 A excercise developed to demonstrate a CBC bitflipping attack, which allows modification of information encrypted using Cipher Block Chaining (CBC). A good writeup of the vulnerability can be found at: https://www.arxumpathsecurity.de/blog/2019/10/16/cbc-mode-is-malleable-dont-trust-it-for-authentication
 
